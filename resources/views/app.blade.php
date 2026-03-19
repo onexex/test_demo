@@ -19,6 +19,7 @@
             })();
         </script>
 {{-- ART ANGELO VICENTE --}}
+{{-- ART ANGELO VICENTE --}}
         {{-- Inline style to set the HTML background color based on our themasdasdasdasdasdsadasdasdsae in app.css --}}
         <style>
             html {
