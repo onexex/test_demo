@@ -13,7 +13,7 @@ withDefaults(
 </script>
 
 <!-- //testing fdgdfgfdg-->
-<!-- test comit fdgfdgfdg-->
+<!-- test comit fdgfdgfdgffffffffffffffffffffffffffffffffffffffffffffhg-->
 <template>
     <Head title="Welcome">
         <link rel="preconnect" href="https://rsms.me/" />
@@ -31,7 +31,7 @@ withDefaults(
                     :href="dashboard()"
                     class="inline-block rounded-sm border border-[#19140035] px-5 py-1.5 text-sm leading-normal text-[#1b1b18] hover:border-[#1915014a] dark:border-[#3E3E3A] dark:text-[#EDEDEC] dark:hover:border-[#62605b]"
                 >
-                    Dashboard
+                    Dashboard s testststs
                 </Link>
                 <template v-else>
                     <Link
